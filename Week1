@@ -1,6 +1,0 @@
-During the first week of the SOC-26-ID-40 Gesture-Controlled Arcade Game course,
-I set up the development environment required for the project.
-I installed Python 3.11 and Visual Studio Code (VS Code) and configured the necessary extensions and tools for Python development.
-
-I then installed OpenCV and learned its basic functionalities, including reading images, displaying images and videos,accessing webcam input, and performing simple image processing operations. 
-Through hands-on practice, I became familiar with the OpenCV library and its role in computer vision applications.
