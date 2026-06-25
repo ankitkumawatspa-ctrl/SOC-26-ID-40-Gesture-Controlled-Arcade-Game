@@ -1,0 +1,8 @@
+During Week 3, I learned how to use MediaPipe Hands to detect and track hand landmarks in real time from a webcam feed.
+I explored the 21-point hand landmark model and understood how normalized coordinates are converted into pixel positions for visualization and processing.
+
+I implemented a hand tracking system using OpenCV and MediaPipe, extracted landmark coordinates, and displayed the hand skeleton on live video frames. 
+By analyzing fingertip and joint positions, I developed logic to determine which fingers were raised and used this information to recognize hand gestures.
+
+As part of the checkpoint, I successfully detected and displayed multiple gestures such as Fist, Open Palm, Pointing, Peace Sign, and Thumbs Up in real time.
+This work established the foundation for gesture-based interaction that will be integrated into the Gesture-Controlled Arcade Game project.
