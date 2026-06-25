@@ -1,0 +1,7 @@
+During Week 4, I transformed basic gesture detection into a structured and reusable gesture recognition system.
+I learned how gestures can be represented using landmark geometry, finger state analysis, relative landmark positions, and normalized distances between hand landmarks.
+
+I implemented helper functions for calculating Euclidean distances, hand-scale normalization, finger state detection, and handedness-aware thumb recognition. 
+Using these components, I developed a standalone gesture module capable of classifying multiple gestures such as Fist, Open Palm, Point, Peace, Thumbs Up, and OK Sign.
+
+The gesture recognition logic was organized into a reusable gestures_module.py module and tested through a dedicated webcam application
