@@ -1,0 +1,5 @@
+During Week 2, I explored MediaPipe, a framework developed by Google for building real-time machine learning pipelines.
+I studied the MediaPipe Hands solution through official documentation, research papers, and video tutorials to understand how hand landmarks are detected and tracked.
+
+I learned the structure of the 21 hand landmarks, the working of hand detection and tracking models, and the integration of MediaPipe with OpenCV for real-time computer vision applications.
+I also gained familiarity with the differences between the deprecated mediapipe.solutions API and the newer mediapipe.tasks API.
