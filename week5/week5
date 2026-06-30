@@ -1,0 +1,3 @@
+During Week 5, I focused on learning the fundamentals of Pygame and applying them by developing a Snake game from scratch.
+I explored core game development concepts such as the game loop, event handling, keyboard controls, rendering graphics, collision detection, timing and movement control, score tracking, and restart/pause functionality.
+I also gained a deeper understanding of Python concepts used in game development, including lists, tuples, functions, indexing, and list methods like insert() and pop()
